@@ -1,0 +1,2 @@
+.table{border:1px solid #000;border-collapse:collapse}.person{border:1px solid green;text-align:center}.person:hover{cursor:pointer}.person--selected{border:2px solid #ff0}.person--male{background-color:#add8e6}.person--female{background-color:pink}.born_before_1650{text-decoration:line-through}.age_more_65{color:#17a117}.column-header{padding:5px 10px;text-transform:uppercase;cursor:pointer}.column-header:hover{-webkit-transform:scale(1.2);transform:scale(1.2)}
+/*# sourceMappingURL=main.33004bc8.chunk.css.map */
